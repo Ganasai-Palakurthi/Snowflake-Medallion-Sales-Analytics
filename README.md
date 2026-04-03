@@ -2,7 +2,9 @@
 
 ## Architecture Diagram
 
-![Architecture](./docs/architecture.png)
+<p align="center">
+  <img src="./docs/architecture.png" width="600"/>
+</p>
 
 ## Overview
 
