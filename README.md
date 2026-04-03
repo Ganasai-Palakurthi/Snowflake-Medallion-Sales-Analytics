@@ -1,5 +1,9 @@
 # Sales Data Warehouse using Snowflake (Medallion Architecture)
 
+## Architecture Diagram
+
+![Architecture](./docs/architecture.png)
+
 ## Overview
 
 This project implements an end-to-end **Data Warehouse (DWH)** using **Snowflake** and a **Medallion Architecture (Bronze, Silver, Gold)** design pattern.
