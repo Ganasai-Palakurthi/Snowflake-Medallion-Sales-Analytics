@@ -3,7 +3,7 @@
 ## Architecture Diagram
 
 <p align="center" style="margin:0; padding:0;">
-  <img src="./docs/architecture.png" width="95%" style="max-height: 350px; display:block; margin:auto;" />
+  <img src="./docs/architecture-v2.png" width="95%" style="max-height: 350px; display:block; margin:auto;" />
 </p>
 
 ## Overview
