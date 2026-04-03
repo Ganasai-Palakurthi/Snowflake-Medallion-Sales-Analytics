@@ -3,7 +3,7 @@
 ## Architecture Diagram
 
 <p align="center">
-  <img src="./docs/architecture.png" height="350"/>
+  <img src="./docs/architecture.png" width="90%" style="max-height: 350px; object-fit: contain;" />
 </p>
 
 ## Overview
