@@ -136,6 +136,6 @@ README.md
 
 ## Author
 
-Ganasai Palakurthi
-Data Engineer | Cloud | Snowflake | Spark
+**Ganasai Palakurthi** <br>
+Data Engineer | Cloud | Snowflake | Spark <br>
 Portfolio: https://ganasaipalakurthi.netlify.app/
