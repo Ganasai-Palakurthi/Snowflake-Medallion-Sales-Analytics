@@ -5,7 +5,6 @@
 <p align="center" style="margin:0; padding:0;">
   <img src="./docs/architecture.png" width="95%" style="max-height: 350px; display:block; margin:auto;" />
 </p>
-
 ## Overview
 
 This project implements an end-to-end **Data Warehouse (DWH)** using **Snowflake** and a **Medallion Architecture (Bronze, Silver, Gold)** design pattern.
