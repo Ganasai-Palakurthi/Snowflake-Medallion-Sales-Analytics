@@ -2,8 +2,8 @@
 
 ## Architecture Diagram
 
-<p align="center">
-  <img src="./docs/architecture.png" width="90%" style="max-height: 350px; object-fit: contain;" />
+<p align="center" style="margin:0; padding:0;">
+  <img src="./docs/architecture.png" width="95%" style="max-height: 350px; display:block; margin:auto;" />
 </p>
 
 ## Overview
